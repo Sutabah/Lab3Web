@@ -24,4 +24,16 @@ dan disini saya mengubahnya pada bagian unorder list
 Selanjutnya adalah membuat tabel, buatlah file baru dan buat awalan judul
 
 ![Membuat html baru tabel](https://user-images.githubusercontent.com/81844622/115103952-a69e7e80-9f7f-11eb-9156-3edd534c16ce.png)
+
+# Langkah 6
+Buatlah tabel sederhana dan untuk mengatur margin dan padding dapat mengubah pada kode <table border , cellpadding, cellspacing> agar hasilnya lebih rapi
+
+![Membuat tabel dan mengatur margin](https://user-images.githubusercontent.com/81844622/115104041-35130000-9f80-11eb-845f-a0df670795d4.png)
+
+# Langkah 7
+Menggabungkan sel data dengan menggunakan atribut rowspan dan sedikit edit pada cellpadding
+
+
+
+
  
