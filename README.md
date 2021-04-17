@@ -33,6 +33,24 @@ Buatlah tabel sederhana dan untuk mengatur margin dan padding dapat mengubah pad
 # Langkah 7
 Menggabungkan sel data dengan menggunakan atribut rowspan dan sedikit edit pada cellpadding
 
+![Menggabungkan sel data](https://user-images.githubusercontent.com/81844622/115104110-92a74c80-9f80-11eb-8515-34f95dab711a.png)
+
+# Langkah 8
+Membuat form baru untuk membuat tabel dan membuat codingan sederhana seperti di bawah ini
+
+![Membuat form](https://user-images.githubusercontent.com/81844622/115104278-a7381480-9f81-11eb-8bb6-ba9a38c37652.png)
+
+# Langkah 9
+Menambahkan style form dengan membuat file css baru dan setelah itu connectkan file css tersebut pada file html form
+
+![Form dengan penambahan Css](https://user-images.githubusercontent.com/81844622/115104360-1ca3e500-9f82-11eb-9716-b53f0fea7ecf.png)
+
+
+
+
+
+
+
 
 
 
