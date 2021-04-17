@@ -4,7 +4,7 @@
  ![membuat html baru](https://user-images.githubusercontent.com/81844622/115103651-bc12a900-9f7d-11eb-86e5-d3c3377d4613.png)
 
 # Langkah 2
-Tambahkan kode untuk membuat ordered list
+Tambahkan atribut section pada body untuk membuat ordered list
 
 ![Membuat ordered list](https://user-images.githubusercontent.com/81844622/115103723-570b8300-9f7e-11eb-831f-cfe71046af29.png)
 
