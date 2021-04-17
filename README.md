@@ -45,6 +45,10 @@ Menambahkan style form dengan membuat file css baru dan setelah itu connectkan f
 
 ![Form dengan penambahan Css](https://user-images.githubusercontent.com/81844622/115104360-1ca3e500-9f82-11eb-9716-b53f0fea7ecf.png)
 
+# Tugas Membuat list box dengan multiple selection
+
+![tugas](https://user-images.githubusercontent.com/81844622/115105296-419b5680-9f88-11eb-8161-2b69d52fbf70.png)
+
 
 
 
